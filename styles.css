@@ -18,4 +18,4 @@ box-shadow: 0px 5px 1px rgba(32,32,32,0.2);
 
 .keyboard-holder { margin: 30px auto; height: 200px; position:relative; user-select:none; -webkit-user-select:none;-moz-user-select:none;-o-user-select:none; }
 
-/*.playing {background-color: #1BC0EA;}*/
+.playing {background-color: #1BC0EA;}
